@@ -89,6 +89,7 @@ h1 {
 
 .project-img {
   display: block;
+    width: 100%;
 }
 
 details {
