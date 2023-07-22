@@ -88,8 +88,9 @@ h1 {
 }
 
 .project-img {
-    width: 100%;
-    height: auto;
+  display: block;
+  width: auto;
+  height: auto;
 }
 
 details {
