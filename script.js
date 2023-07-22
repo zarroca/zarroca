@@ -19,11 +19,13 @@ document
                 document.getElementById("menu").style.display = "block";
                 document.getElementById("close").style.display = "none";
               document.getElementById("shortcuts").style.display = "none";
+                    document.getElementById("video").src = "https://github.com/zarroca/zarroca/raw/main/logov.mp4";
             } else {
                 document.getElementById("menu").style.display = "none";
                 document.querySelector(".nav-mobile").style.display = "none";
                 document.getElementById("shortcuts").style.display = "block";
                 document.getElementById("close").style.display = "none";
+                    document.getElementById("video").src = "https://cdn.glitch.global/a737c789-ffa2-499c-99a5-8616f6e5cdaa/logo.mp4?v=1689914645806";
             }
           }
                 
